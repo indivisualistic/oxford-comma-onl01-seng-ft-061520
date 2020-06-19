@@ -4,7 +4,7 @@ if fruits.size == 1
 elsif fruits.size == 2
   return fruits.join ("and")
   
-  
+
 end
 
 
